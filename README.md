@@ -20,7 +20,7 @@ One of the unique features of WCE is that there is no need for the attacker to s
 
 The WCE tool is designed to make exfiltration and network command more stealthy by using window flags, which are often overlooked by security monitoring tools. By implementing a reliable and customizable transmission method using TCP, it helps attackers evade detection and exfiltrate sensitive data.
 
-This tool has some research behind it; check it out from here: https://samuraisecurity.co.uk/red-teaming-exfiltrating-data-command-network-nodes-like-a-ghost/
+This tool has some research behind it; check it out from here: https://samuraisecurity.co.uk/resources/news/red-teaming-exfiltrating-data-command-network-nodes-like-a-ghost/
 
 WWHF Talk: https://wildwesthackinfest.com/event/exfiltrate-and-command-network-nodes-like-a-ghost/
 
